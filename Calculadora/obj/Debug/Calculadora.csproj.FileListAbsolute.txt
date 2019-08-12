@@ -1,0 +1,10 @@
+C:\Users\MariaIsabelCampagnol\Documents\DotNet\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\MariaIsabelCampagnol\Documents\DotNet\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\MariaIsabelCampagnol\Documents\DotNet\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\MariaIsabelCampagnol\Documents\DotNet\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\MariaIsabelCampagnol\Documents\DotNet\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\MariaIsabelCampagnol\Documents\DotNet\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\MariaIsabelCampagnol\Documents\DotNet\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\MariaIsabelCampagnol\Documents\DotNet\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\MariaIsabelCampagnol\Documents\DotNet\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\MariaIsabelCampagnol\Documents\DotNet\Calculadora\Calculadora\obj\Debug\WindowsFormsApp2.frmCalculadora.resources
